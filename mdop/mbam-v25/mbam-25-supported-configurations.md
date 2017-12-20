@@ -319,6 +319,11 @@ The following table lists the Microsoft SQL Server versions that are supported f
 
 You must install SQL Server with the **SQL\_Latin1\_General\_CP1\_CI\_AS** collation.
 
+To support SQL Server 2016 SP1, you must install at minimum the [March 2017 Servicing Release](https://support.microsoft.com/en-us/help/4014009/march-2017-servicing-release-for-microsoft-desktop-optimization-pack)for MDOP.
+
+The [Septemer 2017 Servicing Release](https://support.microsoft.com/en-gb/help/4041137/september-2017-servicing-release-for-microsoft-desktop-optimization)is also available. 
+
+
 <table>
 <colgroup>
 <col width="25%" />
